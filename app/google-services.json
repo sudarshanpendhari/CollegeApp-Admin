@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774917997203",
+    "project_id": "snjb-c10a6",
+    "storage_bucket": "snjb-c10a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774917997203:android:d646010a0e468dd49e4366",
+        "android_client_info": {
+          "package_name": "com.codedev.collegeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774917997203-oduinu8q2e7mp8rsong581ce4pae12ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRkTh4QCGqPC_vbRJqULxFkQSwALuo_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774917997203-oduinu8q2e7mp8rsong581ce4pae12ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
